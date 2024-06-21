@@ -3,6 +3,16 @@
 <img align="right" alt="coading" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuradha666&label=Profile%20views&color=0e75b6&style=flat" alt="anuradha666" /> </p>
 
+- 🔭 I’m currently Studying Computer Science [Online_Food Website Using PHP](https://onlinefoodsomething.000webhostapp.com/)
+
+- 🌱 I’m currently learning **DSA with Java**
+
+- 👯 [Calculator](https://anuradha666.github.io/Calculator-using-Javascript/)
+
+- 📫 How to reach me **anuradhasingh20020@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1rocOcgrmbGpJMwUMO7qpA7Q4Vx7UC1QK/view](https://drive.google.com/file/d/1rocOcgrmbGpJMwUMO7qpA7Q4Vx7UC1QK/view)
+
 - ⚡ Fun fact **I am Funny 😉**
 
 <h3 align="left">Connect with me:</h3>
