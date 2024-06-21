@@ -3,11 +3,19 @@
 <img align="right" alt="coading" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuradha666&label=Profile%20views&color=0e75b6&style=flat" alt="anuradha666" /> </p>
 
-- 🔭 I’m currently Studying Computer Science [Online_Food Website Using PHP](https://onlinefoodsomething.000webhostapp.com/)
+-🔭 I have completed my diploma in Computer Science and Engineering From Maharana Pratap Polytechnic.
+Currently, I am pursuing B.Tech in Computer Science from ABES Engineering College Ghaziabad.
+I am also a web developer and I have done an internship in web development  from Techpile Technology Pvt. Ltd. ,for one and half month and my work was appreciated by them , this internship had upgrated and polish my skills and knowledge  in the web development field also I have worked on websites for different industries.
+I have knowledge of HTML,CSS,Bootstrap,JavaScript,C,PHP,wordpress,MySql, PYTHON and JAVA and currently I am going through Data Structure with JAVA.
+I am fresher  and looking for more opportunity  where I can enhance my abilities and knowledge in web development.
+If you are searching for a web developer with skills, I will be gratefull to work with you. 
 
-- 🌱 I’m currently learning **DSA with Java**
 
-- 👯 [Calculator](https://anuradha666.github.io/Calculator-using-Javascript/)
+- 👯 Project : [Online_Food Website Using PHP](https://onlinefoodsomething.000webhostapp.com/)
+- 👯 Project :  [Calculator](https://anuradha666.github.io/Calculator-using-Javascript/)
+-👯 Project :  [Calculator Using HTML,CSS,JAVASCRIPT](https://anuradha666.github.io/Calculator-using-HTML-CSS-JAVASCRIPT/)
+  
+- - 🌱 I’m currently learning **DSA with Java**
 
 - 📫 How to reach me **anuradhasingh20020@gmail.com**
 
